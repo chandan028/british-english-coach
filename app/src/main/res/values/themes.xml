@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.BritishCoach" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">@color/cream</item>
+    </style>
+    <color name="cream">#FFFAF7F2</color>
+    <color name="teal">#FF1F5C5A</color>
+</resources>
